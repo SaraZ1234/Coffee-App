@@ -25,6 +25,7 @@ This project was developed as a team effort:
 * Login Page
 * Signup Page
 * Card Customization Page
+* UI Designing for the app
 
 **Sara (Me)**
 
