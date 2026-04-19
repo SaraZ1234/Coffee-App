@@ -1,16 +1,59 @@
-# coffeee_app
+# ☕ Coffee App
 
-A new Flutter project.
+Coffee App is a Flutter-based e-commerce application that allows users to browse and order a variety of items such as coffee, tea, cupcakes, cakes, and hot chocolate. The app also includes a unique feature that enables users to send customized greeting cards along with their orders.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+* User Authentication (Login & Signup)
+* Shop Page with multiple categories
+* Product Details Page
+* Add to Cart & Cart Management
+* Payment Options (Cash on Delivery & Card)
+* Custom Card Sending Feature
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter (Dart)
+* Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👩‍💻 Team Contributions
+
+This project was developed as a team effort:
+
+**Sania**
+
+* Login Page
+* Signup Page
+* Card Customization Page
+
+**Sara (Me)**
+
+* Shop Page
+* Cart Page
+* Product Details Page
+
+**Khadija**
+
+* Payment Pages
+* Cash on Delivery
+* Card Payment
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/your-username/coffee-app.git
+cd coffee-app
+flutter pub get
+flutter run
+```
+
+## ✨ Future Improvements
+
+* Online payment gateway integration
+* Order tracking system
+* Backend integration (Firebase / APIs)
+* Improved UI/UX animations
+
+---
+
+This project demonstrates a complete Flutter e-commerce workflow with an additional personalized gifting experience.
